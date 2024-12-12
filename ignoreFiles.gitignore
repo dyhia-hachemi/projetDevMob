@@ -1,0 +1,24 @@
+# Flutter/Dart
+.dart_tool/
+.idea/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Build files
+build/
+.gradle/
+
+# macOS
+.DS_Store
+
+# Linux
+*.so
+
+# Windows
+*.exe
+*.dll
+
+# IDE-specific
+.vscode/
+*.iml
